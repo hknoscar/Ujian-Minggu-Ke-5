@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestingShopDomaq" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.beust.ah.A" />
+    <module name="TestingShopDomaq" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/java/com/juaracoding" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
